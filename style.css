@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+background-color: rgba(37, 163, 163, 0.623);
+width: 100vw;
+height: 8vw;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+h1{
+    color: black;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Vacío {
+    font-size: 40px;
+    color: rgb(7, 128, 87);
+    
+    }
+
+footer {
+background-color: rgba(37, 163, 163, 0.623);
+width: 100vw;
+height: 8vw;
+display: flex;
+justify-content: center;
+align-items: center;
+position: absolute;
+bottom: 0;
+}
+
